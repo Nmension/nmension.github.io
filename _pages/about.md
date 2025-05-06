@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -9,16 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Toulon, France</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -27,8 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+After earning a mention très bien in the French Baccalauréat, I spent a year immersed in English training in Scotland before completing a Licence en Économie et Gestion with a focus on economics. For over six years, I’ve been actively investing and trading in financial markets—particularly FOREX, commodities like XAUUSD, indices such as the DXY, and major cryptocurrencies like BTC, ETH, ADA, and XRP, occasionally exploring high-risk, low-cap assets with disciplined money management. My trading strategy is rooted in macroeconomic analysis, leveraging news, empirical data, and probabilistic models to anticipate market movements.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Alongside finance, I’ve explored the intersection of tech and economics through a blockchain NFT collection project and validated programming bootcamps in Python, Bash, HTML/CSS, and data science. Professionally, I’ve gained two years of experience as a junior data annotator for an Irish firm, now evolving toward a senior role in qualitative data analysis. Currently, I’m channeling all this into a personal project that analyzes public financial data from listed companies—transforming raw information into actionable economic insights.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
