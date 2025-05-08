@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "dropdown-repositories",
-              title: "repositories",
+              title: "Repositories",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-case-study-of-nvidia-the-current-gpu-ai-market-leader",
+          title: 'Case study of Nvidia, the current GPU AI market leader',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -458,6 +458,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/henrike-m", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -470,13 +477,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/nmension", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/henrike-m", "_blank");
         },
       },{
         id: 'social-rss',
