@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nmension
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Nmension/Fcc_Demographic_Data
+  - Nmension/Fcc_Mean_Variance_Standard_Deviation_Calculator
+  - Nmension/Fcc_Medical_Data_Visualizer
+  - Nmension/Fcc_Number_Guessing_Game
+  - Nmension/Fcc_Page_View_Time_Series_Visualizer
+  - Nmension/Fcc_Periodic_Table_Database
+  - Nmension/Fcc_PostgreSQL_Celestial_Db
+  - Nmension/Fcc_Salon_Appointment_Scheduler
+  - Nmension/Fcc_Sea_Level_Predictor
+  - Nmension/Fcc_Worldcup_SQL_DB
