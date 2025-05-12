@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
+title: Utility Bill Calculator
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/utility_bg.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: fun
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

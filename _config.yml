@@ -7,9 +7,9 @@ first_name: Henrike
 middle_name: 
 last_name: Marangi
 contact_note: >
-  If my profile interests you, please reach me through my LinkedIn or on Whatsapp.
+  If my profile interests you, please reach me through my LinkedIn or on per mail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  
 footer_text: >
   A <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio">al-folio</a> powered theme.
 keywords: economics, macroeconomics, finance, data-analysis # add your own keywords or leave empty
@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -121,13 +121,13 @@ disqus_shortname: nmension # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+#external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
+#  - name: Google Blog
+#    posts:
+#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -196,6 +196,44 @@ exclude:
   - _pages/publications.md
   - _pages/teaching.md
   - _news/
+  - _projects/3_project.md
+  - _projects/4_project.md
+  - _projects/5_project.md
+  - _projects/6_project.md
+  - _projects/7_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
+  - _posts/2015-03-15-formatting-and-links
+  - _posts/2015-05-15-images
+  - _posts/2015-07-15-code
+  - _posts/2015-10-20-disqus-comments
+  - _posts/2015-10-20-math
+  - _posts/2018-12-22-distill
+  - _posts/2020-09-28-twitter
+  - _posts/2021-07-04-diagrams
+  - _posts/2022-02-01-redirect
+  - _posts/2022-12-10-giscus-comments
+  - _posts/2023-03-20-table-of-contents
+  - _posts/2023-03-21-tables
+  - _posts/2023-04-24-videos
+  - _posts/2023-04-25-audios
+  - _posts/2023-04-25-sidebar-table-of-contents
+  - _posts/2023-05-12-custom-blockquotes
+  - _posts/2023-07-04-jupyter-notebook
+  - _posts/2023-07-12-post-bibliography
+  - _posts/2023-12-12-tikzjax
+  - _posts/2024-01-26-chartjs
+  - _posts/2024-01-26-echarts
+  - _posts/2024-01-26-geojson-map
+  - _posts/2024-01-27-advanced-images
+  - _posts/2024-01-27-code-diff
+  - _posts/2024-01-27-vega-lite
+  - _posts/2024-04-15-pseudocode
+  - _posts/2024-04-28-post-citation
+  - _posts/2024-04-29-typograms
+  - _posts/2024-05-01-tabs
+  - _posts/2024-12-04-photo-gallery
+  - _posts/2025-03-26-plotly
 keep_files:
   - CNAME
   - .nojekyll
@@ -642,4 +680,3 @@ jsonresume:
   - skills
   - languages
   - interests
-  - volunteer

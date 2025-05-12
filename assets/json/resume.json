@@ -4,21 +4,20 @@
     "label": "Data analyst",
     "image": "",
     "email": "marangi.henrike@gmail.com",
-    "phone": "33615167518",
     "url": "https://nmension.github.io/",
-    "summary": "Just another human...",
+    "summary": "As part of my studies leading to a career as a data scientist, I'm looking for a work-study placement in a company with human values that will complement my current training through practical experience. Passionate and intellectually curious about demystifying technologies and innovations, I'm always ready to take on new challenges. ",
     "location": {
-      "address": "43 Rue Victor Micholet",
+      "address": "",
       "postalCode": "83000",
       "city": "Toulon",
-      "countryCode": "FR",
-      "region": "Var"
+      "countryCode": "Fr",
+      "region": "Provence-Alpes-Côte d’Azur"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "henrike-m",
+        "url": "https://www.linkedin.com/in/henrike-m/"
       }
     ]
   },
@@ -30,19 +29,7 @@
       "startDate": "2023-09-15",
       "endDate": "",
       "summary": "Qualitative analysis of AI output data from various types of queries on different platforms, with each having its respective way of analysis.",
-      "highlights": ["Data"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": ["Human-AI interactions output validation", "Research, Learn & Verify", "Flexibility"]
     }
   ],
   "education": [
@@ -51,7 +38,7 @@
       "location": "Antananarivo, Mdg",
       "url": "https://www.egd.mg/college-et-lycee/",
       "area": "Economic & Social Sciences",
-      "studyType": "Baccalauréat (highest honours)",
+      "studyType": "Baccalauréat (Highest Honours)",
       "endDate": "2016-15-07",
       "score": "16/20"
     },
@@ -71,35 +58,35 @@
       "date": "2025-04-04",
       "issuer": "FreeCodeCamp",
       "url": "https://www.freecodecamp.org/certification/fcc61e832ed-f79f-432a-98ac-1e2fc2fa5216/relational-database-v8",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Data Analysis with Python",
       "date": "2025-03-20",
       "issuer": "FreeCodeCamp",
       "url": "https://www.freecodecamp.org/certification/fcc61e832ed-f79f-432a-98ac-1e2fc2fa5216/data-analysis-with-python-v7",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Scientific Computing with Python",
       "date": "2025-02-17",
       "issuer": "FreeCodeCamp",
       "url": "https://www.freecodecamp.org/certification/fcc61e832ed-f79f-432a-98ac-1e2fc2fa5216/scientific-computing-with-python-v7",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "CSX0001: Computer Science 101",
       "date": "2022-09-28",
       "issuer": "Stanford University: StanfordOnline",
       "url": "https://courses.edx.org/certificates/ca3fa68c11594566911311d711f0741c",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "English proficiency certification: C1+",
       "date": "2023-05-22",
       "issuer": "Panthéon-Sorbonne University: Altissia",
       "url": "https://photos.app.goo.gl/L6S2WLdUxP7GYoXE9",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Intensive Academic Year",
@@ -128,7 +115,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "○ Statistics & Probability",
-        "○ Python scripting: Data cleaning/cleansing, wrangling, analysis on Jupyter & Scientific computing",
+        "○ Python: Data cleaning/cleansing, wrangling, analysis on Jupyter & Scientific computing",
         "○ Bash & PostgreSQL scripting: Relational Databases creation, management & querying",
         "○ Dashboard creation with Python leveraging Matplotlib, Pandas & Numpy"
       ]
@@ -143,12 +130,12 @@
       ]
     },
     {
-      "name": "Finance",
+      "name": "Problem-solving approach",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "○ Financial calculations & interpretations",
-        "○ Macroeconomics: comparative market analysis using key micro indicators for targeted industry"
+        "○ Identification, observation, breakdown & solving",
+        "○ Rational thinking"
       ]
     }
   ],
@@ -188,7 +175,7 @@
       ]
     },
     {
-      "name": "Sports & E-sports",
+      "name": "Sports & E-sports as a practice",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "○ Climbing, Tennis, Basketball, Running" ,"○ CS2 , League of Legends, Fortnite"
@@ -198,14 +185,14 @@
       "name": "News & Articles",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "○ Scientific, Financial, Programming, Social, Political"
+        "○ Scientific, Environmental, Social, Financial, Programming, Political, Business"
       ]
     },
     {
       "name": "Trading & Investment",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "○ Materials, Indices, Forex, Crypto", "○ Macro-based main strategy, Money management"
+        "○ Materials, Indices, Forex, Crypto"
       ]
     }
     
@@ -217,22 +204,38 @@
       "highlights": ["PostgreSQL Database", "Bash script for DB management", "Data manipulation & visualization", "Financial calculations"],
       "startDate": "2025-04-15",
       "endDate": "2025-05-01",
-      "url": "https://example.com"
+      "url": "https://github.com/Nmension/Nvidia_Data_Analysis"
     },
     {
       "name": "Custom Utility Bill Calculator",
       "summary": "(V.1) Script simplifying the process of individual receipt production after automatic calculation of individual electricity & water consumption prices using respective meter indexes.",
-      "highlights": ["Programming", "Python", "GUI"],
+      "highlights": ["Programming", "Python", "Simple GUI design"],
       "startDate": "2025-03-25",
       "endDate": "2025-04-10",
-      "url": "https://example.com"
+      "url": "https://github.com/Nmension/Utility_Bill_Calculator"
+    },
+    {
+      "name": "Free services for a small private residence",
+      "summary": "Short project to help the owners of a small housing estate to automate the calculation of individual utility bills for water and electricity consumption by setting up a Google Sheet, but also to characterise the occupancy of the houses with their data.",
+      "highlights": ["Blockchain", "Resulting statistics creative visualization", "Metadata"],
+      "startDate": "2022-09-27",
+      "endDate": "2022-10-12",
+      "url": "https://docs.google.com/spreadsheets/d/1ho69TReJPU1Idc5UuZlsdcfBAW3XwEhBSDcqmkYyy7s/edit?usp=sharing"
     },
     {
       "name": "Craws CNFT",
       "summary": "Algorithmic generation of a collection of one thousand unique NFTS for the Cardano blockchain after careful drawing of every attributes.",
-      "highlights": ["Blockchain Project", "Resulting statistics creative visualization", "Metadata"],
+      "highlights": ["Blockchain", "Resulting statistics creative visualization", "Metadata", "Creative"],
       "startDate": "2021-10-15",
       "endDate": "2021-12-25",
+      "url": "https://twitter.com/Craws_CNFT/status/1472979210494955528?s=20"
+    },
+    {
+      "name": "Trading & Investment",
+      "summary": "Curious about finance as a branch of economics, I started learning about trading and investing. When I was learning various concepts to better understand the difference between markets and various assets, I first tried using virtual money on real markets. Once I got more experience, I started to shape my strategy by trying different things and seeing what worked with my knowledge or where I was still lacking.",
+      "highlights": ["Finance", "Economics", "Data Analysis", "Strategy", "Money & Risk management", "News analysis"],
+      "startDate": "2019-10-20",
+      "endDate": "",
       "url": "https://twitter.com/Craws_CNFT/status/1472979210494955528?s=20"
     }
   ]
