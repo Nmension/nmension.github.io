@@ -3,14 +3,14 @@ layout: page
 title: Nvidia
 description: Financial Bubble Analysis – Part 1 (behind the scenes) 
 img: assets/img/nvidia_bg.jpg
-importance: 1
-category: work
+importance: 2
+category: personal
 related_publications: false
 ---
 
 Here I will focus on the technical aspect such as where did I find the data, what did I use to cleanse/wrangle it, how did I generate the plots, etc and, also which difficulties/problems I met. 
 
-To read the report, it is in the _blog_ page of the website. 
+[Click here to access the report.](https://nmension.github.io/blog/)
 
 Overview: 
 

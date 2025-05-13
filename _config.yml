@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: N # blog_name will be displayed in your blog page
-blog_description: Welcome ! Discover here my adventures into the data/coding-verse ! 
+blog_name: My Data & Coding-verse # blog_name will be displayed in your blog page
+blog_description: Collection of posts that are related to projects or stuff I learn on my journey.  
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -124,10 +124,10 @@ disqus_shortname: nmension # put your disqus shortname
 #external_sources:
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
-#  - name: Google Blog
+#  - name: NFT collection generation project
 #    posts:
-#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-#        published_date: 2024-05-14
+#      - url: https://x.com/Craws_CNFT/status/1472979210494955528?s=20
+#        published_date: 2021-12-20
 
 # -----------------------------------------------------------------------------
 # Newsletter
