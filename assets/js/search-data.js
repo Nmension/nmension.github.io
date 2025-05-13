@@ -56,7 +56,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-utility-bill-calculator",
           title: 'Utility Bill Calculator',
-          description: "a project with a background image and giscus comments",
+          description: "Python script with a simple GUI for non-technical users",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
