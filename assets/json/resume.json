@@ -115,9 +115,9 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "○ Statistics & Probability",
-        "○ Python: Data cleaning/cleansing, wrangling, analysis on Jupyter & Scientific computing",
-        "○ Bash & PostgreSQL scripting: Relational Databases creation, management & querying",
-        "○ Dashboard creation with Python leveraging Matplotlib, Pandas & Numpy"
+        "○ Data cleaning/cleansing, wrangling, analysis on Jupyter & Scientific computing",
+        "○ Relational Databases creation, management & querying",
+        "○ Dashboard creation with economic KPIs"
       ]
     },
     {
@@ -136,6 +136,16 @@
       "keywords": [
         "○ Identification, observation, breakdown & solving",
         "○ Rational thinking"
+      ]
+    },
+    {
+      "name": "Code",
+      "level": "Advanced beginner",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "○ Python scientific computing plus libraries: Matplotlib, Pandas & Numpy",
+        "○ Bash & PostgreSQL/SQL query scripting ",
+        "○ HTML, CSS & JS basics"
       ]
     }
   ],
