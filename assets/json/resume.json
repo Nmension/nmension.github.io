@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Henrike Marangi",
-    "label": "Data analyst",
+    "label": "Data passionate",
     "image": "",
     "email": "marangi.henrike@gmail.com",
     "url": "https://nmension.github.io/",
-    "summary": "As part of my resumption of studies leading to a career as a data scientist, I'm looking for a work-study placement in a company with human values that will complement my current training through practical experience. Passionate and intellectually curious about demystifying technologies and innovations, I'm always ready to take on new challenges. ",
+    "summary": "As part of the resumption of my studies leading to a career as a data scientist, I'm looking for a work-study placement in a company with human values that will complement my current training through practical experience. Passionate and intellectually curious about demystifying technologies and innovations, I'm always ready to take on new challenges. ",
     "location": {
       "address": "",
       "postalCode": "83000",
@@ -134,8 +134,9 @@
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "○ Identification, observation, breakdown & solving",
-        "○ Rational thinking"
+        "○ Scientific method: identify, observe, research, experiment and solve",
+        "○ Rational thinking & inductive reasoning",
+        "○ Problem breakdown"
       ]
     },
     {
