@@ -47,12 +47,19 @@
       "location": "Paris, Fr",
       "url": "https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/licence-L/licence-economie-KBTDQ2ZO/licence-economie-KBTDX5GI.html",
       "area": "Economics",
-      "studyType": "Bachelor of Science",
+      "studyType": "Bachelor",
       "endDate": "2022-09-07",
       "courses": ["Statistics & Probability","Econometrics","Data Analysis","Macroeconomics","Microeconomics", "Finance", "Economic Theories & Paradigms", "Accounting", "Management"]
     }
   ],
   "certificates": [
+    {
+      "name": "Data Annotation Specialist",
+      "date": "2025-05-15",
+      "issuer": "micro1",
+      "url": "https://photos.app.goo.gl/WbL8Zrq1tqiFWL6K9",
+      "icon": "fa-solid fa-clipboard-check"
+    },
     {
       "name": "Relational Database",
       "date": "2025-04-04",
@@ -147,6 +154,17 @@
         "○ Python scientific computing plus libraries: Matplotlib, Pandas & Numpy",
         "○ Bash & PostgreSQL/SQL query scripting ",
         "○ HTML, CSS & JS basics"
+      ]
+    },
+    {
+      "name": "Data annotation",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "○ Attention to detail",
+        "○ Time-management",
+        "○ Critical-thinking while navigating different strict set of rules",
+        "○ Guideline auditing"
       ]
     }
   ],
