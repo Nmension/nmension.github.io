@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - Nmension/Nvidia_Data_Analysis
+  - Nmension/Utility_Bill_Calculator
   - Nmension/Fcc_Demographic_Data
   - Nmension/Fcc_Mean_Variance_Standard_Deviation_Calculator
   - Nmension/Fcc_Medical_Data_Visualizer
