@@ -8,17 +8,21 @@ category: personal
 related_publications: false
 ---
 
-Here I will focus on the technical aspect such as where did I find the data, what did I use to cleanse/wrangle it, how did I generate the plots, etc and, also which difficulties/problems I met. 
+Here I will focus on the technical aspect such as where did I find the data, what did I use to cleanse/wrangle it, how did I generate the plots, etc and, also which difficulties/problems I met.
 
-[Click here to access the report.](https://nmension.github.io/blog/)
+### **Links:**
+[Github repo: technical documentation and modules](https://github.com/Nmension/Nvidia_Data_Analysis) (available)
 
-Overview: 
+[Analysis report](https://nmension.github.io/blog/) (not available yet)
+
+### **Overview:** 
 
 This project aims to assess whether the high market valuation of the company "Nvidia Inc." reflects a financial bubble by integrating structured data workflows and analytical tools.
 <br /><br />
-1. Setup summary: 
 
-Data Pipeline & Storage:
+### **Setup summary:** 
+
+#### **Data Pipeline & Storage:**
 
 - GAAP respecting financial data collected from public company filings (10-K, quarterly reports, etc.) is stored in a PostgreSQL database called "nvidia". 
     
@@ -30,17 +34,18 @@ Data Pipeline & Storage:
 
   - Step-by-step data insertion support.
 
-Data Exploration & Processing:
+#### **Data Exploration & Processing:**
 
 - The exported data (as .csv) is explored and cleansed in Jupyter Lab; using Python along with Pandas and NumPy for data wrangling and consistency checks.
 
-Visualization & Analysis:
+#### **Visualization & Analysis:**
 
 - A Python script generates key financial charts and tables using Matplotlib (along with the previous libraries), supporting narrative insights into revenue trends, cost structures, valuation dislocations, and systemic risk factors.
 
 This modular setup ensures both repeatability and accessibility for collaborative, data-driven economic analysis.
 <br />
-2. Collection of generated plots for the first party of the project:
+
+### **Collection of generated plots for the first party of the project:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -98,8 +103,11 @@ By pivoting the resulting dataframe from the csv formatted file, I was able to p
 </div>
 The figure IV was the easiest to create because it only involved creating two plots side by side, using data operations that are natively handled in Matplotlib, without requiring a special way of organizing them or many additional steps.
 <br />
-3. Bash script for data management:
 
-If it were just for the sake of analyzing data, I wouldn't have written a bash script with so many functions, but I needed to apply what I had just learned in my recent bootcamps, and at the same time expand my knowledge as I was quickly confronted with the limits of my current programming skills. Some of the challenges I faced included finding better input validation and ways to break down SQL queries to easily guide non-technical users through indirect database queries. I also learned to use nested case statements, although I didn't want to overuse them so as not to add too much complexity to the code, although they were easier to implement.
+### **Bash script for data management:**
 
-_This page and the project it is affiliated to aren't done yet but since I have many things to handle at the moment, I'll try my best to finish it as soon as possible._
+If it were just for the sake of analyzing data, I wouldn't have written a bash script with so many functions, but I needed to apply what I had just learned in my recent bootcamps, and at the same time expand my knowledge as I was quickly confronted with the limits of my current programming skills. Some of the challenges I faced included finding better input validation and ways to break down SQL queries to easily guide non-technical users through indirect database queries. I also learned to use nested case statements, although I didn't want to overuse them so as not to add too much complexity to the code, although they were easier to implement. 
+
+For more information, please check the [Github repository](https://github.com/Nmension/Nvidia_Data_Analysis) of the project.
+
+_This page and the project it is affiliated to aren't finished yet but since I have many things to handle at the moment, I'll try my best to finish it as soon as possible. Thank you for reading !_
