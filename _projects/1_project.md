@@ -22,7 +22,7 @@ This project aims to assess whether the high market valuation of the company "Nv
 
 ### **Setup summary:** 
 
-#### **Data Pipeline & Storage:**
+##### **Data Pipeline & Storage:**
 
 - GAAP respecting financial data collected from public company filings (10-K, quarterly reports, etc.) is stored in a PostgreSQL database called "nvidia". 
     
@@ -34,13 +34,13 @@ This project aims to assess whether the high market valuation of the company "Nv
 
   - Step-by-step data insertion support.
 
-#### **Data Exploration & Processing:**
+##### **Data Exploration & Processing:**
 
 - The exported data (as .csv) is explored and cleansed in Jupyter Lab; using Python along with Pandas and NumPy for data wrangling and consistency checks.
 
-#### **Visualization & Analysis:**
+##### **Visualization & Analysis:**
 
-- A Python script generates key financial charts and tables using Matplotlib (along with the previous libraries), supporting narrative insights into revenue trends, cost structures, valuation dislocations, and systemic risk factors.
+- A Python script generates key financial charts and tables using Matplotlib (along with the other libraries), supporting narrative insights into revenue trends, cost structures, valuation dislocations, and systemic risk factors.
 
 This modular setup ensures both repeatability and accessibility for collaborative, data-driven economic analysis.
 <br />

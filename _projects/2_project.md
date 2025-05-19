@@ -7,10 +7,10 @@ importance: 1
 category: work
 giscus_comments: false
 ---
-[Click here to access the Github repo of the project](https://github.com/Nmension/Utility_Bill_Calculator).
+[Github repo: technical documentation and modules](https://github.com/Nmension/Utility_Bill_Calculator).
 <br />
 
-Context: 
+### **Context:**
 
 This project is custom-made for a specific residence that has 5 houses to rent: B1, B2, B3, B4, B5 plus a reception for the security personnel. Each of these buildings consumes different amounts of electricity (in kWh) and water (in m3) every month. They are all equipped with divisional meters that record their respective consumption indices and are used to calculate their individual amounts to be paid. 
   This situation arises because the electricity/water bill is directly grouped for the whole residence, thus the need to divide the required ammount requested by the provider among the tenants according to their individual consumptions. 
@@ -20,7 +20,7 @@ That's where the idea to create some kind of front end interface that would simp
 
 <br />
 
-Setup summary:
+### **Setup summary:**
 1. A file in .exe format for easier distribution purposes created using Pyinstaller. 
 1. A file in .py format that contains the backend part and generates the frontend GUI.
 <br />
@@ -47,10 +47,10 @@ I decided to use a basic tab design to make it more intuitive and easier to navi
 <br />
 <br />
 
-- To-do list: 
+#### - To-do list: 
   - feature: improve modularity with the ability to edit the number of buildings in the residence;
   - feature: add a dropdown menu for language selection with english support;
-  - feature: individual .docx or .pdf receipt generation
-  - refactor: improve code design to make the end app faster
+  - feature: individual .docx or .pdf receipt generation;
+  - refactor: improve code design to make the end app faster;
   - chore: improve the GUI using more contrasting colors. 
   
