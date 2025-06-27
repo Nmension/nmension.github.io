@@ -11,13 +11,13 @@ related_publications: false
 Here I will focus on the technical aspect such as where did I find the data, what did I use to cleanse/wrangle it, how did I generate the plots, etc and, also which difficulties/problems I met.
 
 ### **Links:**
-[Github repo: technical documentation and modules](https://github.com/Nmension/Nvidia_Data_Analysis) (available)
+[Github repo: technical documentation and modules](https://github.com/Nmension/Nvidia_Data_Analysis)
 
-[Analysis report](https://nmension.github.io/blog/) (not available yet)
+[Analytical report](https://nmension.github.io/blog/2025/nvidia-report/)
 
 ### **Overview:** 
 
-This project aims to assess whether the high market valuation of the company "Nvidia Inc." reflects a financial bubble by integrating structured data workflows and analytical tools.
+This project aims to assess whether the high market valuation of the company "Nvidia Corp." reflects a financial bubble by integrating structured data workflows and analytical tools.
 <br /><br />
 
 ### **Setup summary:** 

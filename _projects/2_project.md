@@ -48,7 +48,7 @@ I decided to use a basic tab design to make it more intuitive and easier to navi
 <br />
 
 #### - To-do list: 
-  - feature: improve modularity with the ability to edit the number of buildings in the residence;
+  - feature: improve modularity with the ability to edit the number of units in the residence;
   - feature: add a dropdown menu for language selection with english support;
   - feature: individual .docx or .pdf receipt generation;
   - refactor: improve code design to make the end app faster;
