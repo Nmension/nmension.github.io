@@ -30,7 +30,14 @@ The analysis draws on revenue trends, efficiency ratios, balance sheet health, a
 **VI. Risks & Stylized Valuation Scenarios (2025–2030)** 
 
 ---
-### **I. Business Growth**  
+
+
+### **I. Business Growth** 
+Our first section will serve as our gateway into understanding Nvidia's revenue trend over time and which part of the business drives the corporation. We start with some calculations that will give us a general picture, then delve deeper with a more detailed approach.
+
+
+
+
 ##### **I.a. Revenue Compound Annual Growth Rate between 2019 & 2025**
   - Formula used for this section:
 
@@ -63,12 +70,10 @@ In 2023, the same relationship shifts between the whole and a unique segment onl
 
 
 ##### **I.b. Segment concentration risk:**
-
-
 Though we can already tell from the plot in the previous section which of Nvidia's segments is the most important, we will specifically look closer by using quarterly revenue data per segment. This is also to get a more accurate understanding of the hinted existing concentration risk.
 
 
-Therefore, the next formula was carefully selected to verify the ratio of revenue contribution per segment.
+  - Therefore, the next formula was carefully selected to verify the ratio of revenue contribution per segment.
 
 
 $$
@@ -84,26 +89,29 @@ Using SCR's formula, I generated the next plot on the left, also making trend an
     </div>
 </div>
 
-Plot II-a shows that Gaming (yellow colored) has been the most stable segment, sustaining Nvidia's revenue, as it is the one that has the lowest variance across quarters while being a significant part of it.  <br />
+**Plot II-a** shows that Gaming (yellow colored) has been the most stable segment, sustaining Nvidia's revenue, as it is the one that has the lowest variance across quarters while being a significant part of it.  <br />
 Until the second quarter of 2024, the second most important segment of the company was the **Data Center** one before it later reached first place as their GPUs took a strategic position in the Artificial Intelligence sector.  <br />
-In 2025, from plot II-b, we see that 88.3% of their total revenue is dependent on this latest green colored segment, while Gaming now only accounts for 8.7% of it.
+In 2025, from **plot II-b**, we see that 88.3% of their total revenue is dependent on this latest green colored segment, while Gaming now only accounts for 8.7% of it.
 
-That's why we can affirm that today's revenue of Nvidia is highly concentrated and dependent on the AI sector's evolution.
+That's why we can affirm that today's revenue of _Nvidia is highly concentrated and dependent on the AI sector's evolution_.
+
 
 
 
 ### **II. Efficiency**
 This section evaluates how effectively Nvidia converts its revenue into operating profit and identifies where operational pressure or inefficiency may lie. In addition to traditional profitability ratios, we examine cost structure dynamics over time.
 
-##### **II.a. Traditional profitability ratios:**
-The first formula of this subsection will help us measure how efficiently Nvidia turns revenue increases into operating income.
+
+##### **II.a. Traditional profitability indicators:**
+  - The first formula of this subsection will help us measure how efficiently Nvidia turns revenue increases into operating income.
+
 
 $$
 Operating\ Leverage\ Ratio = \frac{\text{Δ Operating Income %}}{\text{Δ Revenue %}} 
 $$
 
 
-The next one captures profitability before interest and taxes.
+  - The next one captures profitability before interest and taxes.
 
 
 $$
@@ -130,11 +138,11 @@ In other words, the higher leverage reveals that the company has high fixed cost
 
 
 ##### **II.b. Cost structure dynamics over time:**
-
 At this point, we want to take a closer look at the different components of the company's revenue to get a better picture of its internal efficiency. 
 
 
-For all reasons found in prior sections, I carefully selected two periods to compare, for this plot, that also aligns with the idea of revenue concentration risk in one segment. 
+  - For all reasons found in prior sections, I carefully selected two periods to compare, for this plot, that also aligns with the idea of revenue concentration risk in one segment. 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -142,25 +150,43 @@ For all reasons found in prior sections, I carefully selected two periods to com
     </div>
 </div>
 
-
 From the revenue structure of the two periods, we see that net income has substantially increased, from 27.2 % on average between 2019 & 2023 to 45.0 % in 2024-2025, or a positive difference of 17.8 points between periods. <br />
+
+
 This is explained by the improvement of the internal cost components of the revenue, though the external ones deteriorated (Taxes and interests): COGS went from 38.7 % to 30.0 % (an -8.7 points difference), and OpEx went from 34.0 % to 20.9 % (-13.1 points) while Taxes and interests rose from less than 0.1 % to 4.2 % (+4.1 points); we get: 17.8 % =~ 8.7 + 13.1 - 4.1
 
 
-Though these results could be seen as promising, we have to keep in mind that they are about percentages and therefore incomplete to solely interpret by themselves. If we keep in mind the growth difference in revenue and compare it to the improvement of the cost structure for the same periods, the latter loses a part of its appeal, though we can affirm that Nvidia is still more efficient nowadays than in the past.  
+Though these results could be seen as promising, we have to keep in mind that they are about percentages and therefore incomplete to solely interpret by themselves. If we keep in mind the growth difference in revenue and compare it to the improvement of the cost structure for the same periods, the latter loses a part of its appeal, though _we can affirm that Nvidia is still more efficient nowadays than in the past_.  
 
 
-### **III. Valuation vs Fundamentals**  
+
+
+### **III. Fundamentals against Valuation**  
+In this section, we compare internal value indicators against external ones to understand the value's current relationship between these aspects.
+
+  - As a more insightful indicator than Market Capitalization (MC) alone, I selected Enterprise Value (EV) as an in-between internal and external indicator, as it also takes into account the capital structure of the company. Here's its formula:
+
+
+$$
+Enterprise\ Value\ = \text{average Market Cap} + \text{Total Debt} - \text{Cash and Cash Equivalents}
+$$
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nvidia_table_2_valuations.png" title="table 2: Valuations Vs Fundamentals" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nvidia_table_2_valuations.png" title="table 2: Fundamentals Vs Valuations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
-What we see from the table above is that before the boom of the Data center AI segment of the company (2023 and prior), for three out of four years, EV and market cap both skyrocketed while net income lagged behind. This is a potential bubble indicator, as it signals that market expectations were decoupled from reality, suggesting some type of investor exuberance at the time. <br />
-However, in 2024, the situation got inverted as EV and MC growth percentages were 3 times lower than the net income's.
+What we see from the table above is that before the boom of the Data center AI segment of the company (2023 and prior), for three out of four years, enterprise value and market cap both skyrocketed while net income lagged behind. <br />
+This is a potential bubble indicator, as it signals that market expectations were decoupled from reality, suggesting some type of investor exuberance at the time. <br />
+
+
+However, in 2024, the situation got inverted because EV and MC growth percentages were 3 times lower than the net income's, implying some kind of undervaluation for that time. 
+
+
+As the data for the company's Total Debt & Cash and Cash Equivalents for 2025 isn't available yet, I couldn't estimate EV to make the same comparison and see if the 2024 trend holds or is only transient.
 
 
 ### **IV. Balance Sheet Fragility**  
