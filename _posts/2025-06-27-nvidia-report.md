@@ -24,10 +24,9 @@ The analysis draws on revenue trends, efficiency ratios, balance sheet health, a
 
 **I. Business Growth**  
 **II. Efficiency**  
-**III. Valuation vs Fundamentals**  
-**IV. Balance Sheet Fragility**  
-**V. Macro Positioning**  
-**VI. Risks & Stylized Valuation Scenarios (2025–2030)** 
+**III. Alignments between intrinsic & external values**   
+**IV. Macro Positioning**  
+**V. Risks & Stylized Valuation Scenarios (2025–2030)** 
 
 ---
 
@@ -129,7 +128,7 @@ Using both of the previous formulas, we get the following table for the studied 
 Though Nvidia's operating margins mainly increased during our selected timeline, nearly doubling, this is mostly due to increasing total revenue more than decreasing operating expenses.
 
 
-The operating leverage ratio confirms that assumption as,for four years out of six, it is above one, showing that Nvidia's profitability is very dependent on their sales. A small increase in revenue can lead to a bigger increase in profits but the opposite is also true, as seen for 2020 and 2023. _It is advantageous in periods of increased sales_ but at the same time, _risky in times of decreases_ as the fixed costs still have to be accounted for no matter what the sales are._
+The operating leverage ratio confirms that assumption as, for four years out of six, it is above one, showing that Nvidia's profitability is very dependent on their sales. A small increase in revenue can lead to a bigger increase in profits but the opposite is also true, as seen for 2020 and 2023. _It is advantageous in periods of increased sales_ but at the same time, _risky in times of decreases_ as the fixed costs still have to be accounted for no matter what the sales are._
 
 
 In other words, the higher leverage reveals that the company has high fixed costs, thus elevated operating expenses, and that their break-even point for sales is dependent on covering these ones but also a part of why they became the dominant company in the AI GPU data center as they had the required assets and strategy, available at the right time.
@@ -156,14 +155,16 @@ From the revenue structure of the two periods, we see that net income has substa
 This is explained by the improvement of the internal cost components of the revenue, though the external ones deteriorated (Taxes and interests): COGS went from 38.7 % to 30.0 % (an -8.7 points difference), and OpEx went from 34.0 % to 20.9 % (-13.1 points) while Taxes and interests rose from less than 0.1 % to 4.2 % (+4.1 points); we get: 17.8 % =~ 8.7 + 13.1 - 4.1
 
 
-Though these results could be seen as promising, we have to keep in mind that they are about percentages and therefore incomplete to solely interpret by themselves. If we keep in mind the growth difference in revenue and compare it to the improvement of the cost structure for the same periods, the latter loses a part of its appeal, though _we can affirm that Nvidia is still more efficient nowadays than in the past_.  
+Though these results could be seen as promising, we have to keep in mind that they are about percentages and therefore incomplete to solely interpret by themselves. If we keep in mind the growth difference in revenue and compare it to the improvement of the cost structure for the same periods, the latter loses a part of its appeal; however, _we can affirm that Nvidia is still more efficient nowadays than in the past._
 
 
 
 
-### **III. Fundamentals against Valuation**  
+### **III. Alignments between intrinsic & external values:**  
 In this section, we compare internal value indicators against external ones to understand the value's current relationship between these aspects.
 
+
+##### **III.a. Fundamentals against Valuation:**
   - As a more insightful indicator than Market Capitalization (MC) alone, I selected Enterprise Value (EV) as an in-between internal and external indicator, as it also takes into account the capital structure of the company. Here's its formula:
 
 
@@ -183,16 +184,60 @@ What we see from the table above is that before the boom of the Data center AI s
 This is a potential bubble indicator, as it signals that market expectations were decoupled from reality, suggesting some type of investor exuberance at the time. <br />
 
 
-However, in 2024, the situation got inverted because EV and MC growth percentages were 3 times lower than the net income's, implying some kind of undervaluation for that time. 
+However, in 2024, the situation got inverted because EV and MC growth percentages were 3 times lower than the net income's, implying some kind of undervaluation at the time. 
 
 
-As the data for the company's Total Debt & Cash and Cash Equivalents for 2025 isn't available yet, I couldn't estimate EV to make the same comparison and see if the 2024 trend holds or is only transient.
+As the data for the company's Total Debt & Cash and Cash Equivalents for 2025 isn't available yet, I couldn't estimate EV to make the same comparison and see if the 2024 trend holds or is only transient. We still got a good understanding of the prior years, that the corporation's capital management strategy can be seen as risky, nonetheless that seems to have paid off for the moment. 
 
 
-### **IV. Balance Sheet Fragility**  
+##### **III.b. Capital Structure & Risk profile**  
+  - To continue, we will calculate the Debt-to-Equity ratio to understand how the company finances its assets so that we can evaluate more clearly the risks in their capital structure and why their taxes and interests rose so much between our two previously selected periods: 2019-2023 and 2024-2025.
 
 
-### **V. Macro Positioning**  
+$$
+Debt-to-Equity\ Ratio = \frac{\text{Total Debt}}{\text{Shareholder Equity}} 
+$$
+
+  - This is still incomplete, as it doesn't talk about the ability of the company to pay off its debt. That's why we proceed by simultaneously using EBITDA and Net Debt to gauge it. 
 
 
-### **VI. Risks & Stylized Valuation Scenarios (2025–2030)**
+$$
+Net\ Debt-to-EBITDA\ Ratio = \frac{\text{Net Debt}}{\text{EBITDA}} 
+$$
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nvidia_table_3_D2ER_NDEBITDA.png" title="Table 3: Dept to Equity & Net Debt to EBITDA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+For the first period, 2023 and prior years, the Debt-to-equity ratio almost rose to 0.5, representing half of the shareholders' equity in debt, as for every dollar of equity the company had, the business owed 50¢ to creditors. At the same time, our second ratio also rose, indicating a deteriorating ability to cover its debt, though not to the point of being bad, as it is still below 2. <br />
+
+
+This high leverage adds fragility to the enterprise's health at that time but is not uncommon in tech and gets better over the next years as the ratio has since sharply decreased by a factor of 18.
+
+It is also interesting to note that the average net debt to EBITDA ratio from 2019 to 2025 is 0.115, which implies a low credit risk; the ratio goes above 1 for 2021 and 2023 but gets more than compensated by being negative for 2020 and 2025. We can say that on average the company has more than enough cash to pay off its debt while being able to retain a surplus; thus, the lower credit risk.
+
+
+##### **III.c. Ownership structure:**
+  - In this last subdivision, we look at the ownership structure of their market shares between insiders and outsiders to determine if there are control and potential exit risks.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/line_pie_dual_plot.png" title="Shareholders' groups" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+As seen in the chart above, from 2019 to 2025, the exit risk's possible impact on the stock became lower as the number of shares detained by insiders and the top 3 institutions decreased as these groups have been selling. 
+
+
+This lower ownership over the years may indicate that they perceive the current market valuation as unsustainable and/or risky.
+
+
+### **IV. Macro Positioning**  
+
+
+### **V. Risks & Stylized Valuation Scenarios (2025–2030)**
