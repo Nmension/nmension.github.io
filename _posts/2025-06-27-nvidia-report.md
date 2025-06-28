@@ -11,22 +11,23 @@ related_posts: false
 # **Economic & Financial Report: NVIDIA Corp.**  
 ### *Is Nvidia the leader of a Revolution or a Financial Bubble ?*
 
-## **Main report objective**
+## **Main objective**
 
 This report evaluates whether the high valuation of Nvidia represents a financial bubble.
-Using public financial data and a data-driven approach, I analyze both **micro** and **macro** dimensions to find the answer.  
+Using public financial data and a data-driven approach, we explore both **micro** and **macro** dimensions to find the answer.  
 
 The analysis draws on revenue trends, efficiency ratios, balance sheet health, and systemic risk exposure to conclude that **Nvidia’s valuation may or may not be supported by fundamentals**, placing it at **risk of being within a financial bubble**.
 
 ---
 
+
 ## **Table Of Contents**
 
-**I. Business Growth**  
-**II. Efficiency**  
+**I.   Business Growth**  
+**II.  Efficiency**  
 **III. Alignments between intrinsic & external values**   
-**IV. Macro Positioning**  
-**V. Risks & Stylized Valuation Scenarios (2025–2030)** 
+**IV.  Macro Positioning**  
+**V.   Risks & Stylized Valuation Scenarios (2025–2030)** 
 
 ---
 
@@ -128,7 +129,7 @@ Using both of the previous formulas, we get the following table for the studied 
 Though Nvidia's operating margins mainly increased during our selected timeline, nearly doubling, this is mostly due to increasing total revenue more than decreasing operating expenses.
 
 
-The operating leverage ratio confirms that assumption as, for four years out of six, it is above one, showing that Nvidia's profitability is very dependent on their sales. A small increase in revenue can lead to a bigger increase in profits but the opposite is also true, as seen for 2020 and 2023. _It is advantageous in periods of increased sales_ but at the same time, _risky in times of decreases_ as the fixed costs still have to be accounted for no matter what the sales are._
+The operating leverage ratio confirms that assumption as, for four years out of six, it is above one, showing that Nvidia's profitability is very dependent on their sales. A small increase in revenue can lead to a bigger increase in profits but the opposite is also true, as seen for 2020 and 2023. _It is advantageous in periods of increased sales_ but at the same time, _risky in times of decreases_ as the fixed costs still have to be accounted for no matter what the sales are.
 
 
 In other words, the higher leverage reveals that the company has high fixed costs, thus elevated operating expenses, and that their break-even point for sales is dependent on covering these ones but also a part of why they became the dominant company in the AI GPU data center as they had the required assets and strategy, available at the right time.
@@ -165,7 +166,7 @@ In this section, we compare internal value indicators against external ones to u
 
 
 ##### **III.a. Fundamentals against Valuation:**
-  - As a more insightful indicator than Market Capitalization (MC) alone, I selected Enterprise Value (EV) as an in-between internal and external indicator, as it also takes into account the capital structure of the company. Here's its formula:
+  - As a more insightful indicator than Market Capitalization (MC) alone, Enterprise Value (EV) gets selected as an in-between internal and external indicator, as it also takes into account the capital structure of the company. Here's its formula:
 
 
 $$
@@ -195,14 +196,14 @@ As the data for the company's Total Debt & Cash and Cash Equivalents for 2025 is
 
 
 $$
-Debt-to-Equity\ Ratio = \frac{\text{Total Debt}}{\text{Shareholder Equity}} 
+Debt\ to\ Equity\ Ratio = \frac{\text{Total Debt}}{\text{Shareholder Equity}} 
 $$
 
   - This is still incomplete, as it doesn't talk about the ability of the company to pay off its debt. That's why we proceed by simultaneously using EBITDA and Net Debt to gauge it. 
 
 
 $$
-Net\ Debt-to-EBITDA\ Ratio = \frac{\text{Net Debt}}{\text{EBITDA}} 
+Net\ Debt\ to\ EBITDA\ Ratio = \frac{\text{Net Debt}}{\text{EBITDA}} 
 $$
 
 
@@ -215,7 +216,7 @@ $$
 For the first period, 2023 and prior years, the Debt-to-equity ratio almost rose to 0.5, representing half of the shareholders' equity in debt, as for every dollar of equity the company had, the business owed 50¢ to creditors. At the same time, our second ratio also rose, indicating a deteriorating ability to cover its debt, though not to the point of being bad, as it is still below 2. <br />
 
 
-This high leverage adds fragility to the enterprise's health at that time but is not uncommon in tech and gets better over the next years as the ratio has since sharply decreased by a factor of 18.
+This high leverage at that time adds fragility to the enterprise's health but is not uncommon in tech and gets better over the next years as the ratio has since sharply decreased by a factor of 18.
 
 It is also interesting to note that the average net debt to EBITDA ratio from 2019 to 2025 is 0.115, which implies a low credit risk; the ratio goes above 1 for 2021 and 2023 but gets more than compensated by being negative for 2020 and 2025. We can say that on average the company has more than enough cash to pay off its debt while being able to retain a surplus; thus, the lower credit risk.
 
@@ -234,10 +235,57 @@ It is also interesting to note that the average net debt to EBITDA ratio from 20
 As seen in the chart above, from 2019 to 2025, the exit risk's possible impact on the stock became lower as the number of shares detained by insiders and the top 3 institutions decreased as these groups have been selling. 
 
 
-This lower ownership over the years may indicate that they perceive the current market valuation as unsustainable and/or risky.
+This lower ownership over the years may indicate that they perceive the current market valuation as unsustainable and/or risky, requiring a cautious, more conservative approach. Their percentage of ownership is still higher than at the beginning of the period, though. 
+
+
 
 
 ### **IV. Macro Positioning**  
+This part of our analysis will add the macro/market structure perspective, an essential one, especially when a company pivots into a capital-intensive and hype-sensitive sector like AI infrastructure. When a segment like AI-focused Data Centers becomes the company’s dominant revenue stream and a key justification for its valuation, we need to assess not just how well the company is performing, but how durable and defensible that performance is in a competitive, macroeconomic context.
 
+
+Note: Nvidia publishes their data the first month of each current year, while other companies, such as Intel or AMD, publish theirs at the end of the previous one. <br />
+For instance, 2025 here means the end of 2024 **or** the beginning of January 2025.
+
+
+##### **IV.a. Macro profitability analysis:**
+  - In this subpart, we will first analyze how Nvidia's Net Income evolved when compared to some of its direct or indirect competitors in the same industry.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nvidia_table_4_net_inc.png" title="Table 4: Net Income comparison" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+For the first period (2019 - 2023), while Nvidia has been less profitable than its competitors on average, it is far ahead for the remaining years, beating everyone by a factor of 17.2 on average. <br />
+It is important to note that Intel's results have a strong negative impact on the competitor's average for 2025, resulting in an inflated factor when compared with Nvidia's performance for the same year. 
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/incrusted_dual_bar_plus_line_plot.png" title="Net Income YoY comparaison" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+This chart confirms what we previously discovered here while adding a year-over-year net income growth comparison for a clearer distinction of their evolution.
+
+
+##### **IV.b. Macro profitability analysis:**
+
+$$
+Market\ Share\ = \frac{\text{Individual Revenue}}{\text{Total Sector Revenue}}
+$$
+
+$$
+Revenue CAGR = \left(\frac{\text{Revenue 2025}}{\text{Revenue 2023}}\right)^\frac{1}{3} - 1 * 100
+$$
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nvidia_table_5_MS_CAGR.png" title="Table 5: Revenue Market Share and CAGR comparison" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ### **V. Risks & Stylized Valuation Scenarios (2025–2030)**
