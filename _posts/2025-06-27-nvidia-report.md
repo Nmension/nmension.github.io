@@ -320,7 +320,10 @@ $$
 </div>
 
 
-As we can see in our table, Nvidia not only has the biggest market share in the sector, but also the best revenue growth for our selected period — even when indirect competitors are included. This shows that, although AI may be considered a financial bubble due to excessive investor optimism for the technology, Nvidia is one of the safest investments because of its position. However, this part of our case study would be incomplete without comparing our company to its direct competitors, as they have the most potential to threaten its position.
+As demonstrated in our table, Nvidia not only holds the largest market share in the sector, but also exhibits the strongest revenue growth for the selected period, even when indirect competitors are included. This suggests that, despite perceptions of AI as a financial bubble driven by excessive investor optimism, Nvidia stands out as a relatively secure investment due to its strategic position. This, in turn, partially explains the high Price to Sales ratio (P/S), as well as the cautious stance adopted by insiders and leading institutional investors. 
+
+
+However, this part of our case study would be incomplete without comparing our company to its direct competitors, as they have the most potential to threaten its position.
 
 
 Focusing on the GPU AI branch, Nvidia’s market share increases by a factor of 2.5, putting it ahead of its competitors, such as Intel and AMD, in the AI data center chip segment.
