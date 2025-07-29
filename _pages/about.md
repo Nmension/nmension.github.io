@@ -54,4 +54,4 @@ Trying to understand the world and my environment has always been something that
 
 That's why, after completing my French Baccalauréat with a mention très bien, I undertook a one-year training program in English in Edinburgh (Scotland) to further develop my linguistic skills, as language is the system that allows us to pass on our knowledge through time. I then obtained a Licence in Economics from Panthéon-Sorbonne University, Paris 1, to better understand what has shaped the organization of our civilization and the world it has created around us with its various coexisting nuances/branches.
 
-[Access my assessfirst's profile here](https://my.assessfirst.com/public/profile/hgyitagx-henrike-marangi?lang=en-EN)
+[Access my AssessFirst's profile here](https://my.assessfirst.com/public/profile/hgyitagx-henrike-marangi?lang=en-EN)
