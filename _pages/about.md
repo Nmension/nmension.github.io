@@ -52,6 +52,6 @@ _Just someone trying to understand every shades of the following question:_
 Trying to understand the world and my environment has always been something that stimulates me; no matter what the subject, it's my insatiable curiosity that drives me to gain a deeper understanding of what is around me.
 
 
-We will overcome any crisis together through our diverse and divergent experiences, depending on the context, the moment, and the place where life takes each of us. As a result of our awareness, we have the power to share our experiences and unite to overcome limits that we think are insurmountable; those of today will be nothing more than barriers that we will overcome tomorrow...
+We will overcome any crisis together through our diverse and divergent experiences, depending on the context, the moment, and the place where life takes each of us. As a result of our awareness, we have the power to share our experiences and unite to overcome limits that we think are insurmountable; those of today will be nothing more than barriers that we would have overcame.
 
 [Access my AssessFirst's profile here](https://my.assessfirst.com/public/profile/hgyitagx-henrike-marangi?lang=en-EN)
